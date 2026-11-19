@@ -1,4 +1,4 @@
-from ejercicio_04 import ListaEnlazada
+from Ejercicio4_recetario import ListaEnlazada
 
 
 class PilaVaciaError(Exception):

@@ -1,4 +1,4 @@
-from ejercicio_02 import RecetaNoEncontrada
+from Ejercicio2_recetario import RecetaNoEncontrada
 
 DIAS = ("lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo")
 

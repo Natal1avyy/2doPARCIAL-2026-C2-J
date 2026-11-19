@@ -1,8 +1,8 @@
 import struct
 
-from ejercicio_01 import Receta
-from ejercicio_02 import LibroRecetas
-from ejercicio_09 import ArchivoInvalidoError
+from Ejercicio1_recetario import Receta
+from Ejercicio2_recetario import LibroRecetas
+from Ejercicio9_recetario import ArchivoInvalidoError
 
 FORMATO_ENCABEZADO = "<4scI"
 FORMATO_REGISTRO = "<I32sH8s16s"

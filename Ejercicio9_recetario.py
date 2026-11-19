@@ -1,7 +1,7 @@
 import csv
 
-from ejercicio_01 import Receta
-from ejercicio_02 import LibroRecetas
+from Ejercicio1_recetario import Receta
+from Ejercicio2_recetario import LibroRecetas
 
 ENCABEZADO_RECETAS = ["id", "nombre", "tiempo_min", "dificultad", "categoria"]
 ENCABEZADO_INGREDIENTES = ["receta_id", "nombre", "cantidad", "unidad"]
